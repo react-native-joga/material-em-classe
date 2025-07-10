@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "projeto_2",
-    "slug": "projeto_2",
-    "scheme": "projeto_2",
+    "name": "example-axios",
+    "slug": "example-axios",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,7 +24,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": ["expo-router"]
+    }
   }
 }

@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "projeto_2",
-    "slug": "projeto_2",
-    "scheme": "projeto_2",
+    "name": "useeffect---suspense---lazy---activityindicator",
+    "slug": "snack-644e2e48-17f7-4ec7-8453-fc6b01c94d95",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,12 +19,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": ["expo-router"]
+    }
   }
 }

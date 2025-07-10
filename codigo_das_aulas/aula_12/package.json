@@ -1,7 +1,7 @@
 {
-  "name": "projeto_2",
+  "name": "example-axios",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "index.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,15 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~53.0.10",
-    "expo-constants": "~17.1.6",
-    "expo-linking": "~7.1.5",
-    "expo-router": "~5.0.7",
+    "@expo/metro-runtime": "~5.0.4",
+    "axios": "^1.9.0",
+    "expo": "~53.0.11",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-native": "0.79.3",
-    "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.11.1"
+    "react-native-web": "^0.20.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

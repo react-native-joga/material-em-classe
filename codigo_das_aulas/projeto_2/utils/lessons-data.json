@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "day": "01",
+    "month": "maio",
+    "title": "Introdução à Programação",
+    "content": "Apresentação do curso, conceitos básicos de programação, lógica e algoritmos."
+  },
+  {
+    "id": 2,
+    "day": "03",
+    "month": "maio",
+    "title": "Variáveis e Tipos de Dados",
+    "content": "Entendendo variáveis, tipos primitivos, declaração e atribuição de valores."
+  },
+  {
+    "id": 3,
+    "day": "05",
+    "month": "maio",
+    "title": "Operadores e Expressões",
+    "content": "Uso de operadores aritméticos, relacionais e lógicos em expressões."
+  },
+  {
+    "id": 4,
+    "day": "08",
+    "month": "maio",
+    "title": "Estruturas Condicionais",
+    "content": "Compreensão e aplicação de if, else e switch para tomada de decisões."
+  },
+  {
+    "id": 5,
+    "day": "10",
+    "month": "maio",
+    "title": "Estruturas de Repetição",
+    "content": "Uso de laços for, while e do-while para repetição de tarefas."
+  },
+  {
+    "id": 6,
+    "day": "12",
+    "month": "maio",
+    "title": "Funções",
+    "content": "Definição, declaração e chamada de funções, parâmetros e retorno."
+  },
+  {
+    "id": 7,
+    "day": "15",
+    "month": "maio",
+    "title": "Arrays e Coleções",
+    "content": "Trabalhando com arrays, métodos básicos e manipulação de coleções."
+  },
+  {
+    "id": 8,
+    "day": "17",
+    "month": "maio",
+    "title": "Objetos",
+    "content": "Introdução a objetos, propriedades, métodos e instâncias."
+  },
+  {
+    "id": 9,
+    "day": "19",
+    "month": "maio",
+    "title": "Entrada e Saída de Dados",
+    "content": "Como ler dados do usuário e exibir informações na tela."
+  },
+  {
+    "id": 10,
+    "day": "22",
+    "month": "maio",
+    "title": "Projeto Prático",
+    "content": "Desenvolvimento de um pequeno projeto utilizando os conceitos aprendidos."
+  }
+]
